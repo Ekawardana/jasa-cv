@@ -434,9 +434,6 @@ section {
 }
 
 @media (max-width:770px) {
-    /* .hidden{
-        display: none;
-    } */
 
     #menu-bars {
         display: initial;
